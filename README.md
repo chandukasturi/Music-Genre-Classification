@@ -1,0 +1,2 @@
+# Music-Genre-Classification
+Implemented multiple classification models using Python with GTZAN data set by leading a team of three people. Compared the performances of K-NN, SVM, CNN models and logged their results in terms of prediction accuracies. A Convolutional Neural Network model stood out with the highest prediction accuracy of 82% amongst all other models.
